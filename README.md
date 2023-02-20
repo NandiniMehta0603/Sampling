@@ -21,7 +21,7 @@ Gradient Boosting Classifier
 ```
 ### Arguments
 | Model | Simple Random | Systematic | Stratified | Clustering |
-|------------| -----------------|
+|------------| -----------------|-----------------|-----------------|-----------------|
 | Logistic Regression |  90.629096 | 90.498034 | 82.175623 | 61.926606 |
 | KNN | 79.030144 | 85.976409 | 84.272608 | 50.000000 |
 | SVM | 64.154653 | 64.220183 | 66.513761 | 50.000000 |
@@ -30,4 +30,5 @@ Gradient Boosting Classifier
 
 ### Output
 Extra Trees Algorithm works best for this dataset
+
 
